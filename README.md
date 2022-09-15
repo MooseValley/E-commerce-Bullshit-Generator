@@ -1,5 +1,8 @@
-# E-commerce-Bullshit-Generator
-E-commerce Bullshit Generator
+# E-commerce Bullshit Generator
+
+Simple command line tool to generate buzzword non-sense.
+The meaningless garbage cryptocurrency, NFT, Web 3.0 "projects" like to spout.
+
 
 ### Uses the JavaScript arrays from the Corporate B.S. Generator here:
 * https://dack.com/web/bullshit.html
