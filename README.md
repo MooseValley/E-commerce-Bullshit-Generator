@@ -1,6 +1,6 @@
 # E-commerce Bullshit Generator
 
-Simple command line tool to generate buzzword "word salad" non-sense.
+Simple command-line tool to generate buzzword "word salad" non-sense.
 
 i.e. The meaningless garbage cryptocurrency, blockchain, NFT, and Web 3.0 "projects" always spout.
 
