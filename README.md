@@ -8,7 +8,7 @@ E-commerce Bullshit Generator
 
 
 ### Sample Output:
-<br>appropriately strategize fully tested methods of empowerment
+appropriately strategize fully tested methods of empowerment
 <br>completely right-shore frictionless human capital
 <br>globally re-engineer clicks-and-mortar alignments
 <br>dramatically engage extensible e-tailers
@@ -21,5 +21,5 @@ E-commerce Bullshit Generator
 
 
 ### Moose OMalley
-<br>Moose's Software Valley
+Moose's Software Valley
 <br>https://moosevalley.github.io/
