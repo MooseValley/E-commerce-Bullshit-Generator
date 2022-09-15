@@ -1,7 +1,8 @@
 # E-commerce Bullshit Generator
 
-Simple command line tool to generate buzzword non-sense.
-The meaningless garbage cryptocurrency, NFT, Web 3.0 "projects" like to spout.
+Simple command line tool to generate buzzword "word salad" non-sense.
+
+i.e. The meaningless garbage cryptocurrency, blockchain, NFT, and Web 3.0 "projects" always spout.
 
 
 ### Uses the JavaScript arrays from the Corporate B.S. Generator here:
@@ -11,17 +12,18 @@ The meaningless garbage cryptocurrency, NFT, Web 3.0 "projects" like to spout.
 
 
 ### Sample Output:
+<pre>
 appropriately strategize fully tested methods of empowerment
-<br>completely right-shore frictionless human capital
-<br>globally re-engineer clicks-and-mortar alignments
-<br>dramatically engage extensible e-tailers
-<br>dramatically transition end-to-end markets
-<br>continually reintermediate market positioning e-markets
-<br>energistically benchmark holistic e-markets
-<br>intrinsically recaptiualize enabled services
-<br>uniquely morph quality mindshare
-<br>distinctively productivate integrated ROI
-
+completely right-shore frictionless human capital
+globally re-engineer clicks-and-mortar alignments
+dramatically engage extensible e-tailers
+dramatically transition end-to-end markets
+continually reintermediate market positioning e-markets
+energistically benchmark holistic e-markets
+intrinsically recaptiualize enabled services
+uniquely morph quality mindshare
+distinctively productivate integrated ROI
+</pre>
 
 ### Moose OMalley
 Moose's Software Valley
